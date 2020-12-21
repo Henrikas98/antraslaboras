@@ -1,0 +1,10 @@
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\obj\Debug\Lab2_antrauzduotis.csprojAssemblyReference.cache
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\obj\Debug\Lab2_antrauzduotis.Form1.resources
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\obj\Debug\Lab2_antrauzduotis.Properties.Resources.resources
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\obj\Debug\Lab2_antrauzduotis.csproj.GenerateResource.cache
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\obj\Debug\Lab2_antrauzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\bin\Debug\Lab2_antrauzduotis.exe.config
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\bin\Debug\Lab2_antrauzduotis.exe
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\bin\Debug\Lab2_antrauzduotis.pdb
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\obj\Debug\Lab2_antrauzduotis.exe
+C:\Users\Henrikas\source\repos\Lab2_antrauzduotis\Lab2_antrauzduotis\obj\Debug\Lab2_antrauzduotis.pdb
